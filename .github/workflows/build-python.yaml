@@ -3,7 +3,7 @@ name: Build and publish devcontainer
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build_dev_container:
